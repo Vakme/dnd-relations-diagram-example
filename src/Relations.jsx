@@ -9,15 +9,15 @@ export const Relations = ({ title, getLabel, relations }) => {
         marginBottom: 8,
       }}
     >
-      <div style={{ fontSize: "1.2em", fontWeight: "bold", marginBottom: 4 }}>
+      <div style={{ fontSize: "0.8em", fontWeight: "bold", marginBottom: 4 }}>
         {title}
       </div>
       {relations.map((e) => (
         <div key={e.id}>
-          <div style={{ fontSize: "1.1em", color: e.style.stroke }}>
+          <div style={{ fontSize: "0.7em", color: e.style.stroke }}>
             {getLabel(e)} - {e.data.label}
           </div>
-          <div>{e.data.note}</div>
+          <div style={{ fontSize: "0.6em" }}>{e.data.note}</div>
         </div>
       ))}
     </div>

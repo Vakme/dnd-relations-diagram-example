@@ -1,41 +1,73 @@
 character1,character2,relation,note
-Eden,-,- ,-
-Inoi,Eden,4 - lubienie,ale lepiej trzymać dystans
-Kiaran,Eden,4 - lubienie,miały bonding moment
-Sylvara,Eden,9 - bardzo lubienie,"martwi się o nią po, szczególnie po pożyczeniu ciała"
-Ireena,Eden,2 - zauroczenie,"czuje się przy niej sobą i czuje siłę, sama nadal nie rozumiem tego uczucia"
-Eden,Inoi,9 - bardzo lubienie,chociaż nie zawsze rozumie
-Inoi,Inoi,- ,- kc 4ever
-Sylvara,Inoi,9 - bardzo lubienie,"bardzo mądra, dużo myśli"
-Kiaran,Inoi,4 - lubienie,zdjęła klątwę z Inoi
-Ireena,Inoi,4 - lubienie,"jestem jej wdzięczna za pomoc, chciałabym lepiej ją poznać"
-Eden ,Kiaran,9 - bardzo lubienie,przez palladyństwo trochę jak siostrę
-Inoi,Kiaran,9 - bardzo lubienie,zrobi co może żeby jej pomóc i się odwdzięczyć
-Kiaran ,-,- ,-
-Sylvara,Kiaran,10 - to skomplikowane,love hate relationship oparta na wzajemnym ranieniu się słownym bądź nie
-Ireena,Kiaran,10 - to skomplikowane,"widziałam jej piękno w snach, doceniam ogromnie jej pomoc i troskę, ale wydaje się zaborcza"
-Eden ,Sylvara,9 - bardzo lubienie,chociaż teraz czuje się źle przez pożyczenie ciała 
-Inoi,Sylvara,9 - bardzo lubienie,strasznie się o nią martwi
-Kiaran ,Sylvara,10 - to skomplikowane,"głupia mądralińska baba, która uważa, że nigdy się nie myli, ale ewidentnie ciągle gapi mi się na tyłek, w ogóle to nie zna życia ani trochę, jest denerwująca, myśli, że może wszystkich przegadać i gadać jakies głupoty i zachowuje się jakby nie rozumiała, że nie każdy zna jej dziwną kulturę, w ogóle beznadziejnie śpiewa, dziwne jak na barda, strasznie wkurzająca i uparta, umarłabym za nią"
-Sylvara,-,- ,-
-Ireena,Sylvara,4 - lubienie,"jestem jej wdzięczna za pomoc, chciałabym ją lepiej poznać"
-Eden ,Ireena,2 - zauroczenie,ale nie jest gotowa
-Inoi,Ireena,4 - lubienie,trzeba się nią opiekować
-Kiaran,Ireena,10 - to skomplikowane,https://www.youtube.com/watch?v=4WTt69YO2VI
-Sylvara,Ireena,4 - lubienie,"uważa, że jest bardzo spoko, ale z lekkim dystansem"
-Ireena,-,- ,-
-Eden,Ismark,4 - lubienie,i niech mu się wiedzie
-Inoi,Ismark,4 - lubienie,oby miał się dobrze
-Kiaran,Ismark,5 - neutralność,
-Sylvara,Ismark,4 - lubienie,ładny
-Ireena,Ismark,1 - miłość,kochany braciszek
-Eden,Muriel,4 - lubienie,esher trauma bond
-Inoi,Muriel,5 - neutralność,ciągle jej nie rozumiem
-Kiaran,Muriel,5 - neutralność,"jest okej, trochę dziwna"
-Sylvara,Muriel,5 - neutralność,nie miała okazji jej bardziej poznać
-Ireena,Muriel,5 - neutralność,dużo przed nami ukrywała
-Eden ,Vasili,4 - lubienie,przystojny mężczyzna
-Inoi,Vasili,4 - lubienie,chociaż chyba nie jest z nami szczery
-Kiaran,Vasili,5 - neutralność,mężczyzna
-Sylvara,Vasili,5 - neutralność,"ładny, ale mu nie ufa"
-Ireena,Vasili,2 - zauroczenie,"bardziej fascynacja niż zauroczenie, jego piękne spojrzenie wydaje się znajome jej sercu"
+Tav,Shadowheart,4 - liking,Mutual trust growing through shared trials
+Tav,Lae'zel,5 - neutrality,Respect but occasional clashes
+Tav,Gale,3 - friendship,Friendly connection over intellect and kindness
+Tav,Astarion,2 - attraction,Dangerous attraction and curiosity
+Tav,Wyll,3 - friendship,Mutual respect and camaraderie
+Tav,Karlach,9 - strong liking,Strong friendship and shared values
+Tav,Halsin,4 - liking,Calm respect and appreciation
+Tav,Minthara,10 - it’s complicated,Complex history tied to choices and morality
+Shadowheart,Tav,4 - liking,Grows to trust Tav as leader
+Shadowheart,Lae'zel,6 - dislike,Religious and moral tension
+Shadowheart,Gale,3 - friendship,Mutual care and intellectual rapport
+Shadowheart,Astarion,5 - neutrality,"Occasional flirtation, uncertain trust"
+Shadowheart,Wyll,4 - liking,Respects his honor and sense of justice
+Shadowheart,Karlach,3 - friendship,Good-natured friendship
+Shadowheart,Halsin,4 - liking,Respects his wisdom and healing nature
+Shadowheart,Minthara,7 - hatred,Opposed faiths and ideals
+Lae'zel,Tav,5 - neutrality,Respects strength and leadership
+Lae'zel,Shadowheart,7 - hatred,Faith-based animosity
+Lae'zel,Gale,6 - dislike,Finds his talk tiresome
+Lae'zel,Astarion,6 - dislike,Distrusts his motives
+Lae'zel,Wyll,4 - liking,Acknowledges his bravery
+Lae'zel,Karlach,3 - friendship,Mutual warriors’ respect
+Lae'zel,Halsin,5 - neutrality,Sees him as an ally of convenience
+Lae'zel,Minthara,9 - strong liking,Shared martial focus and ruthlessness
+Gale,Tav,3 - friendship,Enjoys conversation and teamwork
+Gale,Shadowheart,3 - friendship,Gentle admiration
+Gale,Lae'zel,6 - dislike,Her bluntness annoys him
+Gale,Astarion,5 - neutrality,Tense but professional
+Gale,Wyll,4 - liking,Academic respect
+Gale,Karlach,4 - liking,Friendly and supportive
+Gale,Halsin,3 - friendship,Shared magical curiosity
+Gale,Minthara,8 - fear,Fears her zeal and cruelty
+Astarion,Tav,2 - attraction,Flirtation mixed with manipulation
+Astarion,Shadowheart,5 - neutrality,"Mild interest, wary of her devotion"
+Astarion,Lae'zel,6 - dislike,Tense competition
+Astarion,Gale,6 - dislike,Jealous rivalry
+Astarion,Wyll,4 - liking,Occasional cooperation
+Astarion,Karlach,9 - strong liking,Unlikely but loyal friendship
+Astarion,Halsin,4 - liking,"Playful banter, underlying trust"
+Astarion,Minthara,3 - friendship,Shared darkness and ambition
+Wyll,Tav,3 - friendship,Trusts and respects leader
+Wyll,Shadowheart,4 - liking,Mutual faith in doing good
+Wyll,Lae'zel,4 - liking,Battle respect
+Wyll,Gale,4 - liking,Enjoys his tales and wit
+Wyll,Astarion,5 - neutrality,Uneasy but useful alliance
+Wyll,Karlach,9 - strong liking,Deep bond and affection
+Wyll,Halsin,3 - friendship,Respects his healing powers
+Wyll,Minthara,7 - hatred,Condemns her cruelty
+Karlach,Tav,9 - strong liking,Sees Tav as chosen family
+Karlach,Shadowheart,3 - friendship,Supportive friendship
+Karlach,Lae'zel,3 - friendship,Respects her strength
+Karlach,Gale,4 - liking,Finds him kind and funny
+Karlach,Astarion,9 - strong liking,Best friends despite differences
+Karlach,Wyll,9 - strong liking,Romantic affection possible
+Karlach,Halsin,3 - friendship,liking his calm presence
+Karlach,Minthara,6 - dislike,Disliking her cold demeanor
+Halsin,Tav,4 - liking,Respect and quiet admiration
+Halsin,Shadowheart,3 - friendship,Guides her in faith and balance
+Halsin,Lae'zel,5 - neutrality,Sees her as fierce ally
+Halsin,Gale,3 - friendship,Friendly scholarly talks
+Halsin,Astarion,4 - liking,Offers him understanding
+Halsin,Wyll,3 - friendship,Appreciates his courage
+Halsin,Karlach,3 - friendship,Gentle friendship
+Halsin,Minthara,7 - hatred,Opposes her cruelty
+Minthara,Tav,10 - it’s complicated,Tangled loyalty and attraction
+Minthara,Shadowheart,7 - hatred,Religious rivalry
+Minthara,Lae'zel,9 - strong liking,Admiration for her discipline
+Minthara,Gale,8 - fear,Distrusts his morality
+Minthara,Astarion,3 - friendship,Kindred ambition
+Minthara,Wyll,7 - hatred,Views him as naive idealist
+Minthara,Karlach,6 - dislike,Respects her strength but disagrees
+Minthara,Halsin,7 - hatred,Sees him as weak pacifist

@@ -257,15 +257,17 @@ const CustomNodeFlow = () => {
             top: calculateTooltipTop(),
             left: calculateTooltipLeft(),
             zIndex: 999,
+            display: 'flex',
+            gap: 8
           }}
         >
           <Relations
-            title={`Co ${tooltipPos?.id} myśli o innych?`}
+            title={`What ${tooltipPos?.id} thinks of others?`}
             getLabel={(e) => e.target}
             relations={relations.filter((e) => e.source === tooltipPos?.id)}
           />
           <Relations
-            title={`Co inni myślą o ${tooltipPos?.id}?`}
+            title={`What others think of ${tooltipPos?.id}?`}
             getLabel={(e) => e.source}
             relations={relations.filter((e) => e.target === tooltipPos?.id)}
           />

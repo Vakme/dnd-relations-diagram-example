@@ -14,11 +14,11 @@ export const useData = () => {
         setData(
           results.data?.map((o) => ({
             ...o,
-            character1: o.character1.trim(),
-            character2: o.character2.trim(),
-            relation: o.relation.trim() === "-" ? "" : o.relation.split(" ")[0],
+            character1: o.character1?.trim(),
+            character2: o.character2?.trim(),
+            relation: o.relation?.trim() === "-" ? "" : o.relation?.split(" ")[0],
             relationLabel:
-              o.relation.trim() === "-" ? "" : o.relation.split("-")[1].trim(),
+              o.relation?.trim() === "-" ? "" : o.relation?.split("-")[1]?.trim(),
           })) ?? null
         );
         setFields(results.meta.fields);
