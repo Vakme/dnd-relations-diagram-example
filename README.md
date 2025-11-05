@@ -3,6 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
+## Disclaimer
+This project is a fan-made work inspired by Baldur’s Gate 3. All characters, names, and settings related to Baldur’s Gate 3 are the property of Larian Studios. I do not own, or claim to own, any of the copyrighted material associated with the game.
+This tutorial and accompanying files are created for educational and non-commercial purposes only.
+
 ## Table of Contents
 
 - [Updating to New Releases](#updating-to-new-releases)
