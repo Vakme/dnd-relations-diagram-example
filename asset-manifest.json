@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "./static/css/main.c4090b4a.css",
-    "main.js": "./static/js/main.2d32dadd.js",
-    "index.html": "./index.html",
-    "main.c4090b4a.css.map": "./static/css/main.c4090b4a.css.map",
-    "main.2d32dadd.js.map": "./static/js/main.2d32dadd.js.map"
+    "main.css": "/dnd-relations-diagram-example/static/css/main.c4090b4a.css",
+    "main.js": "/dnd-relations-diagram-example/static/js/main.2d32dadd.js",
+    "index.html": "/dnd-relations-diagram-example/index.html",
+    "main.c4090b4a.css.map": "/dnd-relations-diagram-example/static/css/main.c4090b4a.css.map",
+    "main.2d32dadd.js.map": "/dnd-relations-diagram-example/static/js/main.2d32dadd.js.map"
   },
   "entrypoints": [
     "static/css/main.c4090b4a.css",
